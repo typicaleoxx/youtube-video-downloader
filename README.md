@@ -22,12 +22,12 @@ This Python script allows you to download YouTube videos by providing the video 
 
 ## How to Use
 
-1. Clone the repository or download the `downloader.py` file.
+1. Clone the repository or download the ` downloader.py` file.
 2. Make sure you have Python installed on your system.
-3. Install the pytube library using pip: `pip install pytube`.
-4. Run the script using Python: `python downloader.py`.
+3. Install the pytube library using pip: ` bash pip install pytube`.
+4. Run the script using Python: `bash python downloader.py`.
 5. Paste the YouTube video URL when prompted.
-6. The script will display video information and download the video to the specified path (`C:/Users/DELL/Downloads` by default).
+6. The script will display video information and download the video to the specified path (`C:/Users/DELL/Downloads` by default). You can change this path according to your system configuration.
 
 ## What You Can Improve
 
