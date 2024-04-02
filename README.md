@@ -1,6 +1,6 @@
 # YouTube Video Downloader
 
-This Python script allows you to download YouTube videos by providing the video URL. It utilizes the pytube library to interact with YouTube and download videos in the highest resolution available.
+This Python script allows you to download YouTube videos by providing the video URL. It utilizes pytube library to interact with YouTube and download videos in the highest resolution available.
 
 ## Features
 
